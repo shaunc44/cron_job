@@ -1,3 +1,4 @@
+#!/bin/env python
 from crontab import CronTab
 import datetime
 
